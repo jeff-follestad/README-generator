@@ -1,4 +1,4 @@
-# Professional README Generator Starter Code
+# Professional README Generator 
 
 The purpose of this project was to build a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
 
